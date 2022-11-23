@@ -1,0 +1,26 @@
+{
+    "leyenda" : "#YoProgramo",
+    "name": "David Frances",
+    "bannerImage": "https://i.imgur.com/AJLDQEq.jpg",
+    "argentinaProgramaImage": "https://i.imgur.com/eEbaChk.png",
+    "experience": [
+        {
+            "title": "title",
+            "img": "",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+        },
+        {
+            "title": "title",
+            "img": "",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+        },
+        {
+            "title": "title",
+            "img": "",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+        }
+
+    ]
+    
+
+}

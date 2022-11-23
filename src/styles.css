@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+:root{
+    --color1:#332F35;
+    --color2:#355d69;
+    --color3:#6aae9d;
+    --color4:#b9d4b4;
+    --color5:#f4e9d4;
+    --color6:#d0baa9;
+    --color7:#9e8e91;
+    --color8:#5b4a68;
+    
+}
+#navbar{
+    background-color: var(--color1);
+    color:white;
+}
+#perfil{
+    margin-top: -10%;
+    margin-left: 1.5rem;
+    width: 20%;
+    height: 20%;
+    
+}
+#banner{
+    width: 100%;
+}
+.separator{
+    height: 1px;
+    width: 100%;
+    background-color: var(--color1);
+    margin-top: 3rem;
+}
