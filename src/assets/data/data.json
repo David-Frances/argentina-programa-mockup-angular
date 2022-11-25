@@ -26,17 +26,17 @@
 
     "experience": [
         {
-            "title": "title",
+            "role": "title",
             "img": "",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
         },
         {
-            "title": "title",
+            "role": "title",
             "img": "",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
         },
         {
-            "title": "title",
+            "role": "title",
             "img": "",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
         }
