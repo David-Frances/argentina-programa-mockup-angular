@@ -1,8 +1,24 @@
 {
-    "leyenda" : "#YoProgramo",
+    "header":{
+      "programImage": "https://i.imgur.com/eEbaChk.png",
+      "programName" : "#YoProgramo",
+      "networks":[
+        {
+          "class": "fa-brands fa-github fa-2xl",
+          "url": "https://github.com/David-Frances"
+        },
+      {
+        "class": "fa-brands fa-twitter fa-2xl",
+        "url": "https://twitter.com/AFoolishDream"
+      },
+      {
+        "class": "fa-brands fa-linkedin fa-2xl",
+        "url": "https://www.linkedin.com/in/david-frances-28144220a/"
+      }],
+      "bannerImage": "https://i.imgur.com/AJLDQEq.jpg"
+
+    },
     "name": "David Frances",
-    "bannerImage": "https://i.imgur.com/AJLDQEq.jpg",
-    "argentinaProgramaImage": "https://i.imgur.com/eEbaChk.png",
     "experience": [
         {
             "title": "title",
@@ -21,6 +37,6 @@
         }
 
     ]
-    
+
 
 }
