@@ -8,7 +8,7 @@
     --color6:#d0baa9;
     --color7:#9e8e91;
     --color8:#5b4a68;
-    
+
 }
 #navbar{
     background-color: var(--color1);
@@ -19,7 +19,7 @@
     margin-left: 1.5rem;
     width: 20%;
     height: 20%;
-    
+
 }
 #banner{
     width: 100%;
@@ -29,4 +29,13 @@
     width: 100%;
     background-color: var(--color1);
     margin-top: 3rem;
+}
+ul{
+    list-style-type: none;
+    padding-top:1%;
+
+
+}
+li{
+  padding-right:3%;
 }

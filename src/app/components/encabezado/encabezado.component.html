@@ -4,13 +4,13 @@
             <img [src]="miPortfolio.header.programImage" alt="logo de argentinaprograma">
             {{miPortfolio.header.programName}}
         </div>
-        <div id="navbar-der" class="col-5 justify-content-end p-3">
-          <ul *ngFor="let network of miPortfolio.header.networks" class="group-list horizontal-group-list">
-                <li><a [href]="network.url" target="_blank" class="link-light"><i [class]="network.class"></i></a></li>
-
+        <div id="navbar-der" class="row col-5 text-end  p-3">
+          <ul dir="rtl" class="col justify-items-end list-group list-group-horizontal">
+                <li *ngFor="let network of miPortfolio.header.networks"><a [href]="network.url" target="_blank" class="link-light "><i [class]="network.class"></i></a></li>
 
           </ul>
-          <button class="btn btn-block btn-success ">Log In</button>
+          <button class="btn btn-block btn-success col-2 ">Log In</button>
+
         </div>
     </div>
     <img id="banner" class="img-fluid mx-auto " [src]="miPortfolio.header.bannerImage" alt="banner representativo">
