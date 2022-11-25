@@ -18,7 +18,12 @@
       "bannerImage": "https://i.imgur.com/AJLDQEq.jpg"
 
     },
-    "name": "David Frances",
+    "about":{
+      "name": "David Frances",
+      "contact":"davidtkf256@gmail.com",
+      "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+    },
+
     "experience": [
         {
             "title": "title",
@@ -36,7 +41,57 @@
             "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
         }
 
-    ]
+    ],
+    "education": [
+      {
+          "title": "title",
+          "img": "",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+      },
+      {
+          "title": "title",
+          "img": "",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+      },
+      {
+          "title": "title",
+          "img": "",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+      }],
+      "abilities": [
+        {
+            "title": "title",
+            "img": "",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+        },
+        {
+            "title": "title",
+            "img": "",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+        },
+        {
+            "title": "title",
+            "img": "",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+        }],
+        "proyects": [
+          {
+              "title": "title",
+              "img": "",
+              "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+          },
+          {
+              "title": "title",
+              "img": "",
+              "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+          },
+          {
+              "title": "title",
+              "img": "",
+              "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat vel velit non mollis. Suspendisse tincidunt, nibh et porta posuere, diam est tristique sapien, quis maximus augue nibh ac erat. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+          }]
+
+
 
 
 }

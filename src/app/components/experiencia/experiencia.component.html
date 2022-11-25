@@ -3,7 +3,7 @@
     <ul id="contenedor-experiencia" class="row container-fluid">
 
         <li *ngFor="let exp of miPortfolio.experience" class="elemento row p-3">
-            <div class="elemento-img col-3"> <img src="" alt="Imagen"> </div>
+            <div class="elemento-img col-3"> <img [src]="exp.img" alt="Imagen"> </div>
             <div class="elemento-txt col-9" >{{exp.desc}}</div>
         </li>
 
